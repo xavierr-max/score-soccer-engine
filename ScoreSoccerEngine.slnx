@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="SSE.Api/SSE.Api.csproj" />
+  <Project Path="SSE.Application/SSE.Application.csproj" />
+  <Project Path="SSE.Domain/SSE.Domain.csproj" />
+</Solution>
